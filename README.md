@@ -18,7 +18,8 @@ s that you showcase your individual skill
 1. The images you created
 ![New Piskel (2)](https://github.com/user-attachments/assets/b4ea0737-cb13-43da-b7db-0dac7a580d35)
 ![New Piskel](https://github.com/user-attachments/assets/ef6815a2-90b7-443b-8e03-d80064bf145c)
-![New Piskel](https://github.com/user-attachments/assets/c4436e93-9309-416f-9042-9e98ea8c4842)
+![New Piskel (1)](https://github.com/user-attachments/assets/313268fe-4f8c-4462-a0cf-0a73619cc90b)
+
 
    Add the MIT App Inventor File to the Repository
 
