@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bZsi-UTd)
 # 1.1.1-DD-Template
 
 ## Include the following in this read me
@@ -7,12 +8,18 @@ This app could be used for teacher or anyone because they can take pictures of a
 1. What does it do, how does it work
 This app's purpose is to take a picture of anything and point out on the picture what is important or what you want to point out with different colors
 1. Add screenshots of the design view or actual app
-![image](https://github.com/user-attachments/assets/9606afdc-f0cc-4dfd-b58c-4eed1d570544)
+![image](https://github.com/user-attachments/assets/be133198-c24d-458c-9a14-db16bc5d6dd1)
 
-1. Blocks that you showcase your individual skill
-![image](https://github.com/user-attachments/assets/ff233666-df30-4e59-b95e-5891a13c3de6)
+
+1. Block![image](https://github.com/user-attachments/assets/7a0d9ece-aa28-4314-a719-a93fdd94b742)
+s that you showcase your individual skill
+
 
 1. The images you created
+![New Piskel (2)](https://github.com/user-attachments/assets/b4ea0737-cb13-43da-b7db-0dac7a580d35)
+![New Piskel](https://github.com/user-attachments/assets/ef6815a2-90b7-443b-8e03-d80064bf145c)
+![New Piskel (1)](https://github.com/user-attachments/assets/313268fe-4f8c-4462-a0cf-0a73619cc90b)
+
 
    Add the MIT App Inventor File to the Repository
 
